@@ -20,5 +20,3 @@ for _ in range(battles_count):
 if total_xp_gained < needed_xp_to_unlock:
     xp_left = needed_xp_to_unlock - total_xp_gained
     print(f"Player was not able to collect the needed experience, {xp_left:.2f} more needed.")
-
-
