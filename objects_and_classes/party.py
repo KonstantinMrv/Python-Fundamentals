@@ -13,3 +13,4 @@ while member != "End":
 result = ", ".join(the_coolest_party.people)
 print(f"Going: {result}")
 print(f"Total: {len(the_coolest_party.people)}")
+
