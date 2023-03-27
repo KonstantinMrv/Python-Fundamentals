@@ -1,4 +1,7 @@
-number = int(input())
-number *= 2
+    args = input().split()
 
-print(number)
+    product, price, quantity = args
+
+    print(product)
+    print(int(price)
+    print(quantity)
